@@ -3,6 +3,7 @@ import socket
 socket = socket.socket(socket. AF_INET , socket. SOCK_DGRAM )
 # Create server address
 server_address = ( 'localhost' , 2000 )
+# Akor Emmanuel 2014/1/50709CT
 print ( 'Server waiting for connection' )
 # Bind socket to the server_address
 socket.bind(server_address)
