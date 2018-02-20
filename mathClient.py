@@ -8,7 +8,7 @@ message = []
 #ask user for the operation they want to perform
 operation = input (
    """
-   Net-Centric Math Server
+   Net-Centric Math Server for Akor Emmanuel 2014/1/50709CT
    Please select the mathematical operation you want to perform:
    1 - Addidtion   2 - Subtraction     3 - Multiplication
    4 - Division    5 - Modulus
